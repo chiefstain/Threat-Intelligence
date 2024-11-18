@@ -25,7 +25,7 @@ def save_results_to_file(results, file_name):
 
 def main():
     # Shodan API Key
-    api_key = "f2yz5Oy3GWZk9te6COtjiTlnY9fYMORd"
+    api_key = "api"
     query = input("Enter your Shodan query: ")  # Dynamic input from the user
 
     print("Fetching data from Shodan API...")
